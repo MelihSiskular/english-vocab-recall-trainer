@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+
+# Local learning data
+data/*.db
+data/*.db-*
+data/exports/*.csv
+reports/*.csv
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
